@@ -1,1 +1,1 @@
-This repository contains solution to shell task sth
+Shell I/O redirections
