@@ -2,7 +2,7 @@
 
 ![Image of a scaled up web infrastructure](3-scale_up.png)
 
-[Visit Board](https://drive.google.com/file/d/1FshsN3w-iNhPgrwHFE5qJqEHFkIMPQio/view?usp=sharing)
+[Visit Board](https://drive.google.com/file/d/11CsWQsXfb0H0Ke69gsGIkIRepLIHPuhn/view?usp=sharing)
 
 ## Description
 

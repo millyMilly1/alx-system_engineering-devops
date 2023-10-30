@@ -2,7 +2,7 @@
 
 ![Image of a distributed web infrastructure](1-distributed_web_infrastructure.png)
 
-[Visit Board](https://drive.google.com/file/d/1Cwfw1yzEkfsCvK0-eC4vyk5QPvi1vX9I/view?usp=sharing)
+[Visit Board](https://drive.google.com/file/d/1gBDKndWq55r2PUxEQ46BNPSsY-l6b3bx/view?usp=sharing)
 
 ## Description
 

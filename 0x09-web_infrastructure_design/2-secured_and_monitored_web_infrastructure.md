@@ -2,7 +2,7 @@
 
 ![Image of a secured and monitored infrastructure](2-secured_and_monitored_web_infrastructure.png)
 
-[Visit Board](https://drive.google.com/file/d/1tezHIlOQohGX_1U69c19YO9DO6GQzEbR/view?usp=sharing)
+[Visit Board](https://drive.google.com/file/d/1PoDhazKLCQQ_pShdNc9FiLmi0NWk3clL/view?usp=sharing)
 
 ## Description
 
